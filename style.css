@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 80px;
+    
+}
+
+.prva{
+
+    position: relative;
+    box-shadow: 5px 5px 5px black; 
+}
+
+.drugi-dio{
+    position: relative;
+    background-color: white;
+    width: 700px;
+    box-shadow: 5px 5px 5px black; 
+
+}
+
+.p1{
+    background-color:black;
+    color:white;
+    width :300px;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+
+.treca2{
+    background-color: grey;
+    height: fit-content;
+    padding-top:40px ;
+    padding-bottom: 40px;
+}
+
+.datum{
+    padding-bottom: 10px;
+}
